@@ -10,6 +10,7 @@ Tenho forte preocupação com boas práticas, testes automatizados e organizaç�
 ---
 
 ## 🚀 Tech Stack
+<img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFnNmVwampybHRtOHpoNGt3ZDY4NGRsNWIwNXl5aXNnanMwaDI0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
 ### 🧠 Backend
 [![Backend](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
